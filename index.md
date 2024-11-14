@@ -3,10 +3,11 @@ layout: minimal
 title: "Barhakhari"
 #permalink: /marketing/
 ---
-<style>
 <head>
   <link rel="icon" href="/favicon.png" type="image/x-icon">
 </head>
+
+<style>
 
   /* Hide default Jekyll page title and header */
   h1.page-title {
