@@ -65,7 +65,7 @@ permalink: /marketing/
 
   /* Styling for text and button */
   .title {
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: bold;
     margin-bottom: 20px;
   }
