@@ -25,7 +25,7 @@ permalink: /marketing/
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(8px);
     z-index: -1;
   }
@@ -100,14 +100,14 @@ permalink: /marketing/
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
   <div class="left-half">
-    <img src="path-to-your-mobile-screenshot.png" alt="Mobile Screenshot" style="width: 80%; border-radius: 20px;">
+    <img src="/barhakhari.png" alt="Mobile Screenshot" style="width: 80%; border-radius: 20px;">
   </div>
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Your App Name</div>
+    <div class="title">Barhakhari</div>
     <div class="description">
-      Discover amazing features with our app. Streamline your tasks, stay organized, and be more productive.
+      "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
     </div>
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank">Download on the App Store</a>
   </div>
