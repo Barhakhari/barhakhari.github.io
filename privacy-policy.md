@@ -1,8 +1,20 @@
 ---
-layout: page
+layout: minimal
 title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
+
+<style>
+
+  /* Hide default Jekyll page title and header */
+  h1.page-title {
+    display: none;
+  }
+
+  header {
+    display: none;
+  }
+</style>
 
 # Privacy Policy
 
