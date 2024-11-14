@@ -18,7 +18,9 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
+
 Effective Date: 14 Nov 2024
+
 
 Barhakhari does not collect any personal data from users. We do not collect identifying information such as your name, address, email, or phone number. The app does not request any personal details from you.
 
