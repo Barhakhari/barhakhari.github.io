@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Privacy Policy"
+title: "Privacy Policy - Barhakhari"
 permalink: /privacy-policy/
 ---
 
