@@ -7,14 +7,13 @@ permalink: /marketing/
 <style>
 
   /* Hide default Jekyll page title and header */
-h1.page-title {
-  display: none;
-}
+  h1.page-title {
+    display: none;
+  }
 
-header {
-  display: none;
-}
-
+  header {
+    display: none;
+  }
   
   /* Full-page background */
   .background-image {
