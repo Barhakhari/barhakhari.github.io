@@ -3,9 +3,9 @@ layout: minimal
 title: "Barhakhari"
 #permalink: /marketing/
 ---
-<head>
-  <link rel="icon" href="/favicon.png" type="image/x-icon">
-</head>
+#<head>
+ #<link rel="icon" href="/favicon.png" type="image/x-icon">
+#</head>
 
 <style>
 
