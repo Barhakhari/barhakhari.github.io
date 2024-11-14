@@ -75,20 +75,6 @@ permalink: /marketing/
     margin-bottom: 30px;
   }
 
-  .app-store-button {
-    padding: 12px 24px;
-    background-color: #1e90ff;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-  }
-
-  .app-store-button:hover {
-    background-color: #0073e6;
-  }
-
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .content-container {
