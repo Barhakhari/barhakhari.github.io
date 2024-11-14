@@ -3,10 +3,6 @@ layout: minimal
 title: "Marketing Page"
 #permalink: /marketing/
 ---
-<head>
-  <link rel="icon" href="/favicon.png" type="image/x-icon">
-</head>
-
 <style>
 
   /* Hide default Jekyll page title and header */
