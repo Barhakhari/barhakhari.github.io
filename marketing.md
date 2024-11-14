@@ -109,7 +109,7 @@ permalink: /marketing/
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
   <div class="left-half">
-    <img src="/barhakhari.png" alt="Mobile Screenshot" style="width: 80%; border-radius: 20px;">
+    <img src="/barhakhari.png" alt="Mobile Screenshot" style="width: 90%; border-radius: 20px;">
   </div>
 
   <!-- Right half with text and button -->
