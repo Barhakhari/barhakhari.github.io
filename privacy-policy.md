@@ -52,4 +52,4 @@ We reserve the right to update or modify this privacy policy at any time. If we 
 
 If you have any questions or concerns about this privacy policy, please feel free to contact us at:
 
-Email: barhakharinepal@gmail.com 
+Email: <b>barhakharinepal@gmail.com</b> 
