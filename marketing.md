@@ -90,7 +90,7 @@ permalink: /marketing/
   }
   .app-store-button {
   display: inline-block;
-  width: 210px; /* Adjust as needed */
+  width: 230px; /* Adjust as needed */
   height: 70px; /* Adjust as needed */
   background-image: url('/appstore.png');
   background-size: cover;
