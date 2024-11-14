@@ -71,7 +71,7 @@ permalink: /marketing/
   }
 
   .description {
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin-bottom: 30px;
   }
 
@@ -99,7 +99,7 @@ permalink: /marketing/
 }
 
 .app-store-button:hover {
-  opacity: 0.9; /* Optional: add a slight hover effect */
+  opacity: 0.7; /* Optional: add a slight hover effect */
 }
 </style>
 
