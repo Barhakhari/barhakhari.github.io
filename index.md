@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Marketing Page"
+title: "Barhakhari"
 #permalink: /marketing/
 ---
 <style>
