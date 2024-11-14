@@ -114,7 +114,7 @@ permalink: /marketing/
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Barhakhari</div>
+    <div class="title">BARHAKHARI</div>
     <div class="description">
       "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
     </div>
