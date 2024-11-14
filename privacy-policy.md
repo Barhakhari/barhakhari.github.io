@@ -4,15 +4,15 @@ title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy for [Your App Name]
+# Privacy Policy
 
-Effective Date: [Date]
+Effective Date: 14 Nov 2024
 
-At [Your App Name], we value your privacy. This privacy policy explains how we handle any data associated with the app. We want to assure you that **[Your App Name]** does not collect, store, or share any personal information.
+At Barhakhari, we value your privacy. This privacy policy explains how we handle any data associated with the app. We want to assure you that **Barhakhari** does not collect, store, or share any personal information.
 
 ### 1. Data Collection
 
-**[Your App Name]** does not collect any personal data from users. We do not collect any identifying information, such as your name, address, email, or phone number.
+**Barhakhari** does not collect any personal data from users. We do not collect any identifying information, such as your name, address, email, or phone number.
 
 ### 2. Usage of the App
 
@@ -34,4 +34,4 @@ We reserve the right to update or modify this privacy policy. If we make any cha
 
 If you have any questions or concerns about this privacy policy, please feel free to contact us at:
 
-[Your Contact Information]
+barhakharinepal@gmail.com
