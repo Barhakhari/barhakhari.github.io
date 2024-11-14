@@ -103,12 +103,12 @@ permalink: /marketing/
   }
   .app-store-button {
   display: inline-block;
-  width: 150px; /* Adjust as needed */
-  height: 50px; /* Adjust as needed */
+  width: 180px; /* Adjust as needed */
+  height: 60px; /* Adjust as needed */
   background-image: url('/appstore.png');
   background-size: cover;
   background-position: center;
-  border-radius: 5px;
+  border-radius: 10px;
   text-indent: -9999px; /* Hides the text visually */
 }
 
