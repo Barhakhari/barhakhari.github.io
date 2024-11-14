@@ -1,9 +1,21 @@
 ---
+layout: page
 title: "Marketing Page"
 permalink: /marketing/
 ---
 
 <style>
+
+  /* Hide default Jekyll page title and header */
+h1.page-title {
+  display: none;
+}
+
+header {
+  display: none;
+}
+
+  
   /* Full-page background */
   .background-image {
     position: fixed;
