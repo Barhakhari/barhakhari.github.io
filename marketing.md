@@ -118,7 +118,23 @@ permalink: /marketing/
     <div class="description">
       "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
     </div>
-    <a href="https://your-app-store-link.com" class="app-store-button" target="_blank">Download on the App Store</a>
+    <!--<a href="https://your-app-store-link.com" class="app-store-button" target="_blank">Download on the App Store</a> -->
+    <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+    .app-store-button {
+  display: inline-block;
+  width: 150px; /* Adjust as needed */
+  height: 50px; /* Adjust as needed */
+  background-image: url('/appstore.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  text-indent: -9999px; /* Hides the text visually */
+}
+
+.app-store-button:hover {
+  opacity: 0.9; /* Optional: add a slight hover effect */
+}
+
   </div>
 </div>
 
