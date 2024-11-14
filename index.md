@@ -4,7 +4,7 @@ title: "Barhakhari"
 #permalink: /marketing/
 ---
 <head>
-  <link rel="icon" href="/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://barhakhari.github.io/favicon.png" type="image/x-icon">
 </head>
 
 <style>
