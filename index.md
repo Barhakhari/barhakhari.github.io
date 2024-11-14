@@ -4,6 +4,9 @@ title: "Barhakhari"
 #permalink: /marketing/
 ---
 <style>
+<head>
+  <link rel="icon" href="/favicon.png" type="image/x-icon">
+</head>
 
   /* Hide default Jekyll page title and header */
   h1.page-title {
