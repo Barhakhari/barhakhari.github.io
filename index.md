@@ -4,11 +4,9 @@ title: "Barhakhari"
 #permalink: /marketing/
 ---
 <head>
-  <title>Barhakhari - Guide for Nepali Alphabets</title>
-  <link rel="icon" href="https://barhakhari.github.io/favicon.png" type="image/png">
+  <title>{{ site.title }}</title>
+  <link rel="icon" href="{{ site.favicon | relative_url }}" type="image/png">
 </head>
-
-
 
 <style>
 
