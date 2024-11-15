@@ -8,28 +8,81 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 </head>
 
 <style>
-  /* Adjusting left-half styles */
+  /* Full-page background */
+  .background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/bg.png');
+    background-size: cover;
+    background-position: center;
+    z-index: -2;
+  }
+
+  /* Blur overlay */
+  .blur-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    z-index: -1;
+  }
+
+  /* Main container for content */
+  .content-container {
+    display: flex;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  /* Left half adjustments */
   .left-half {
     flex: 1;
     display: flex;
-    justify-content: center;
-    align-items: center; /* Ensures the image stays centered vertically within its container */
-    padding: 0; /* Removes padding around the container */
-    margin: 0; /* Ensures no additional spacing */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Ensure no additional spacing */
   }
 
   .left-half img {
     width: 100%;
-    height: 100%; /* Ensures the image covers the full height */
-    object-fit: cover; /* Ensures the image maintains aspect ratio while filling the container */
+    height: 100vh; /* Full viewport height */
+    object-fit: cover; /* Keeps aspect ratio while filling the space */
     border-radius: 0; /* Removes rounded corners */
   }
 
-  /* Full-page container adjustments for padding */
-  .content-container {
-    align-items: stretch; /* Allows the left-half to stretch to the full height */
-    min-height: 100vh; /* Keeps the container height as 100% of the viewport */
-    padding: 0; /* Removes padding from the entire content container */
+  /* Right half remains the same */
+  .right-half {
+    flex: 1;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  /* Styling for text and button */
+  .title {
+    font-size: 3.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .description {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+  }
+
+  .additional-info {
+    font-size: 1.5em;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 30px;
   }
 
   /* Responsive adjustments */
@@ -38,17 +91,18 @@ title: "Barhakhari - Guide for Nepali Alphabets"
       flex-direction: column;
     }
 
-    .left-half,
-    .right-half {
-      flex: none;
+    .left-half, .right-half {
       width: 100%;
     }
 
     .left-half img {
-      height: auto; /* Resets height for responsive design */
+      height: auto;
     }
   }
 </style>
+
+<div class="background-image"></div>
+<div class="blur-overlay"></div>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
@@ -69,6 +123,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
+
 
 
 
