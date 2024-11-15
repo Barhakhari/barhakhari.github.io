@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Barhakhari"
+title: "Barhakhari - Guide for Nepali Alphabets"
 #permalink: /marketing/
 ---
 <head>
