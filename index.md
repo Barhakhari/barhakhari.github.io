@@ -105,6 +105,12 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 .app-store-button:hover {
   opacity: 0.7; /* Optional: add a slight hover effect */
 }
+  .additional-info {
+  font-size: 1em; /* Adjust size to fit your design */
+  color: #555; /* Adjust color to match your design */
+  margin-top: 10px; /* Adds some space above the text */
+}
+
 </style>
 <div class="background-image"></div>
 <div class="blur-overlay"></div>
@@ -118,9 +124,13 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   <!-- Right half with text and button -->
   <div class="right-half">
     <div class="title">BARHAKHARI</div>
-    <div class="description">
-      "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
-    </div>
+<div class="description">
+  "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
+</div>
+<div class="additional-info">
+  This app will guide children to write Nepali vowels, consonants, numbers, and Barhakhari.
+</div>
+
     <!--<a href="https://your-app-store-link.com" class="app-store-button" target="_blank">Download on the App Store</a> -->
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
