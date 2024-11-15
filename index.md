@@ -4,8 +4,9 @@ title: "Barhakhari"
 #permalink: /marketing/
 ---
 <head>
-  <link rel="icon" href="/favicon.png" type="image/x-icon">
+  <link rel="icon" href="{{ site.favicon }}" type="image/png">
 </head>
+
 
 <style>
 
