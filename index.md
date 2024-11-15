@@ -49,7 +49,8 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    padding: 0 20px 0 0;
+    padding: 0 0 0 0;
+    radius: 0;
   }
 
   /* Left and right halves */
