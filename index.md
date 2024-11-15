@@ -106,9 +106,10 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   opacity: 0.7; /* Optional: add a slight hover effect */
 }
   .additional-info {
-  font-size: 1em; /* Adjust size to fit your design */
-  color: #555; /* Adjust color to match your design */
-  margin-top: 10px; /* Adds some space above the text */
+  font-size: 1.5em; /* Adjust size to fit your design */
+  color: white; /* Adjust color to match your design */
+  margin-top: 10px;/* Adds some space above the text */
+  margin-bottom: 30px;
 }
 
 </style>
