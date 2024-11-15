@@ -107,16 +107,7 @@ title: "Barhakhari"
   opacity: 0.7; /* Optional: add a slight hover effect */
 }
 </style>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Barhakhari - Guide for Nepali Alphabets</title>
-  <link rel="icon" href="https://barhakhari.github.io/favicon.png" type="image/png">
-</head>
-<body>
-  <div class="background-image"></div>
+<div class="background-image"></div>
 <div class="blur-overlay"></div>
 
 <div class="content-container">
@@ -135,9 +126,5 @@ title: "Barhakhari"
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
-    <!-- Your content here -->
-  </div>
-</body>
-</html>
 
 
