@@ -8,6 +8,16 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 </head>
 
 <style>
+
+  /* Hide default Jekyll page title and header */
+  h1.page-title {
+    display: none;
+  }
+
+  header {
+    display: none;
+  }
+  
   /* Full-page background */
   .background-image {
     position: fixed;
@@ -36,34 +46,25 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   /* Main container for content */
   .content-container {
     display: flex;
+    align-items: center;
+    justify-content: center;
     min-height: 100vh;
     padding: 20px;
   }
 
-  /* Left half adjustments */
+  /* Left and right halves */
   .left-half {
     flex: 1;
     display: flex;
-    padding: 0; /* Remove padding */
-    margin: 0; /* Ensure no additional spacing */
+    justify-content: center;
+    padding: 20px;
   }
 
-  .left-half img {
-    width: 100%;
-    height: 100vh; /* Full viewport height */
-    object-fit: cover; /* Keeps aspect ratio while filling the space */
-    border-radius: 0; /* Removes rounded corners */
-  }
-
-  /* Right half remains the same */
   .right-half {
     flex: 1;
     color: white;
     text-align: left;
     padding: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
   }
 
   /* Styling for text and button */
@@ -78,13 +79,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     margin-bottom: 30px;
   }
 
-  .additional-info {
-    font-size: 1.5em;
-    color: white;
-    margin-top: 10px;
-    margin-bottom: 30px;
-  }
-
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .content-container {
@@ -92,38 +86,55 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     }
 
     .left-half, .right-half {
+      flex: none;
       width: 100%;
-    }
-
-    .left-half img {
-      height: auto;
+      text-align: center;
     }
   }
-</style>
+  .app-store-button {
+  display: inline-block;
+  width: 230px; /* Adjust as needed */
+  height: 70px; /* Adjust as needed */
+  background-image: url('/appstore.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  text-indent: -9999px; /* Hides the text visually */
+}
 
+.app-store-button:hover {
+  opacity: 0.7; /* Optional: add a slight hover effect */
+}
+  .additional-info {
+  font-size: 1.5em; /* Adjust size to fit your design */
+  color: white; /* Adjust color to match your design */
+  margin-top: 10px;/* Adds some space above the text */
+  margin-bottom: 30px;
+}
+
+</style>
 <div class="background-image"></div>
 <div class="blur-overlay"></div>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
   <div class="left-half">
-    <img src="/barhakhari.jpg" alt="Mobile Screenshot">
+    <img src="/barhakhari.jpg" alt="Mobile Screenshot" style="width: 90%; border-radius: 20px;">
   </div>
 
   <!-- Right half with text and button -->
   <div class="right-half">
     <div class="title">BARHAKHARI</div>
-    <div class="description">
-      "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
-    </div>
-    <div class="additional-info">
-      This app will guide children to write Nepali vowels, consonants, numbers, and Barhakhari.
-    </div>
+<div class="description">
+  "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
+</div>
+<div class="additional-info">
+  This app will guide children to write Nepali vowels, consonants, numbers, and Barhakhari.
+</div>
 
+    <!--<a href="https://your-app-store-link.com" class="app-store-button" target="_blank">Download on the App Store</a> -->
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
-
-
 
 
