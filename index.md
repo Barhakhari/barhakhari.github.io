@@ -105,22 +105,25 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   }
 
   /* App Store button */
-  .app-store-button {
+    .app-store-button {
     display: inline-block;
-    width: 250px;
-    height: 70px;
+    width: 250px; /* Adjust width */
+    height: 70px; /* Adjust height */
     background-image: url('/appstore.png');
     background-size: cover;
     background-position: center;
-    border-radius: 12px;
-    text-indent: -9999px;
-    transition: transform 0.3s, opacity 0.3s;
+    border-radius: 12px; /* Rounded corners */
+    border: 2px solid rgba(255, 255, 255, 0.6); /* Soft gray border */
+    text-indent: -9999px; /* Hides text visually */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional shadow for depth */
+    transition: transform 0.3s, opacity 0.3s; /* Hover effect */
   }
 
   .app-store-button:hover {
     transform: scale(1.1);
-    opacity: 0.8;
+    opacity: 0.9;
   }
+
 
   /* Responsive adjustments */
   @media (max-width: 768px) {
