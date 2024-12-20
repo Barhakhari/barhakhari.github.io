@@ -3,22 +3,6 @@ layout: minimal
 title: "Barhakhari - Guide for Nepali Alphabets"
 #permalink: /marketing/
 ---
-<!-- _layouts/minimal.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <!-- Add Favicon Here -->
-  <link rel="icon" href="/favicon.png" type="image/png">
-  <!-- Existing Head Content -->
-  {{ content.head }}
-</head>
-<body>
-  {{ content }}
-</body>
-</html>
 
 
 <style>
