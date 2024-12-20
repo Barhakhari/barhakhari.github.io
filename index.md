@@ -4,6 +4,10 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 #permalink: /marketing/
 ---
 
+<head>
+  <link rel="icon" href="/favicon.png" type="image/png">
+</head>
+
 <style>
 
   /* Hide default Jekyll page title and header */
@@ -139,5 +143,3 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
-
-
