@@ -3,9 +3,7 @@ layout: minimal
 title: "Privacy Policy - Barhakhari"
 permalink: /privacy-policy/
 ---
-<head>
-  <link rel="icon" href="/favicon.png" type="image/x-icon">
-</head>
+
 
 <style>
 
