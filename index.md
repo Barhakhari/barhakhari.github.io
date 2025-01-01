@@ -33,6 +33,18 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     z-index: -2;
   }
 
+  /* Light blur overlay above the background */
+  .light-blur-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.15); /* Light translucent white */
+    backdrop-filter: blur(4px); /* Apply a light blur effect */
+    z-index: -2;
+  }
+
   /* Blur overlay */
   .blur-overlay {
     position: fixed;
@@ -66,6 +78,8 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   .left-half img {
     width: 90%;
     max-width: 400px;
+    height: auto;
+    max-height: 500px;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s;
