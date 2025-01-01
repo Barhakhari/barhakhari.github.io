@@ -70,7 +70,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     height: auto;
     max-height: 2000px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.0);
     transition: transform 0.3s;
   }
 
