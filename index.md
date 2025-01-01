@@ -90,7 +90,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     font-size: 3em;
     font-weight: 700;
     margin-bottom: 20px;
-    text-transform: uppercase;
   }
 
   .description {
@@ -182,7 +181,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing Barhakhari</div>
+    <div class="title">Introducing Barhakhari - Guide for Nepali alphabets</div>
     <div class="description">
       "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
     </div>
