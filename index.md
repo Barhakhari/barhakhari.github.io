@@ -78,8 +78,8 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   .left-half img {
     width: 90%;
     max-width: 400px;
-    height: auto;
-    max-height: 3000px;
+    height: 3000px;
+    max-height: 5000px;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s;
