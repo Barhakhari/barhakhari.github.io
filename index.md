@@ -27,7 +27,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/background.jpg');
+    background-image: url('/back.jpg');
     background-size: cover;
     background-position: center;
     z-index: -2;
