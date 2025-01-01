@@ -46,7 +46,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     z-index: -1;
   }
 
-
   /* Main container */
   .content-container {
     display: flex;
@@ -66,7 +65,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   }
 
   .left-half img {
-    width: 90%;
+    width: 80%;
     max-width: 1000px;
     height: auto;
     max-height: 2000px;
