@@ -175,7 +175,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
   <div class="left-half">
-    <img src="/shot.png" alt="Mobile Screenshot">
+    <img src="/mock.png" alt="Mobile Screenshot">
   </div>
 
   <!-- Right half with text and button -->
