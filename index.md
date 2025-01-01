@@ -90,7 +90,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     font-size: 3em;
     font-weight: 700;
     margin-bottom: 20px;
-    color: #ffcc33;
     text-transform: uppercase;
   }
 
