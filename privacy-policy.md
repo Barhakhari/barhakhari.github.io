@@ -20,7 +20,7 @@ permalink: /privacy-policy/
 # Privacy Policy
 
 
-Effective Date: 14 Nov 2024
+Effective Date: 1 Jan 2025
 
 
 At Barhakhari, we value your privacy and are committed to protecting your personal information. This privacy policy outlines how we collect, use, and protect data associated with the app. We want to assure you that Barhakhari takes your privacy seriously.
