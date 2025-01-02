@@ -43,6 +43,10 @@ We do not control the content or the data collection practices of these third-pa
 
 Apart from the ad services mentioned above, we do not use any other third-party services, such as analytics or social media integration, that track your personal information or usage.
 
+However, our app includes the ability to play YouTube videos, specifically children’s rhymes, using the default YouTube player. These videos are streamed directly from YouTube and comply with YouTube’s API Terms of Service. When you play a video, YouTube may collect certain information as part of its normal operation, such as device data and usage patterns, in accordance with YouTube’s Privacy Policy.
+
+We do not collect, store, or process any personal data related to your use of YouTube videos within the app.
+
 ### Security
 
 Since Barhakhari does not collect or store personal information, there is no data to secure. However, we take reasonable measures to ensure the app functions securely and as intended. If we make any changes to the way we handle data in the future, we will update this privacy policy and notify users in advance.
