@@ -188,6 +188,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <div class="additional-info">
       This app will guide children to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
     </div>
-    <a href="https://your-app-store-link.com" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+    <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
