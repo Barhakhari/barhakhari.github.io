@@ -41,7 +41,7 @@ We do not control the content or the data collection practices of these third-pa
 
 Link to the privacy policy of third-party service providers used by the App.
 
-Google AdMob
+- [Google AdMob](https://policies.google.com/privacy?hl=en&gl=US)
 
 ### No Third-Party Services for Data Collection
 
