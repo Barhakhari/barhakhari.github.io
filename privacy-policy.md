@@ -27,7 +27,7 @@ At Barhakhari, we value your privacy and are committed to protecting your person
 
 ### Data Collection
 
-**Barhakhari** does not collect any personal data from users. We do not collect any identifying information, such as your name, address, email, or phone number.
+**Barhakhari** does not collect any personal data from users. We do not collect any identifying information, such as your name, address, email, or phone number. The following technical details will be included in your feedback to help us resolve your issue: App version, Device name, and iOS version.
 
 ### Usage of the App
 
@@ -38,6 +38,10 @@ The app is designed to guide children in writing Nepali alphabets, one letter at
 Barhakhari uses third-party advertising services to display ads while you are using the app. These ads may collect information about your device and usage of the app for advertising purposes. However, no personal information such as your name, address, or email is collected or shared.
 
 We do not control the content or the data collection practices of these third-party ad services. Please refer to the privacy policies of the third-party advertisers for more information on how they collect and use data.
+
+Link to the privacy policy of third-party service providers used by the App.
+
+Google AdMob
 
 ### No Third-Party Services for Data Collection
 
