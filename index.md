@@ -60,10 +60,12 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     cursor: pointer;
     text-decoration: none;
     transition: background-color 0.0s;
+    transition: transform 0.3s, opacity 0.3s;
   }
 
   .faqs-button:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
+    opacity: 0.9;
   }
 
   /* Main container */
