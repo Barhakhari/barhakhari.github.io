@@ -63,7 +63,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   }
 
   .faqs-button:hover {
-    background-color: #005bb5;
+    transform: scale(1.05);
   }
 
   /* Main container */
