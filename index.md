@@ -50,7 +50,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: clear;
+    background-color: #000000;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -59,7 +59,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     font-weight: 600;
     cursor: pointer;
     text-decoration: none;
-    transition: background-color 0.0s;
     transition: transform 0.3s, opacity 0.3s;
   }
 
@@ -126,7 +125,14 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     margin-bottom: 30px;
   }
 
-  /* App Store button */
+  /* App Store button and contact label container */
+  .app-store-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
   .app-store-button {
     display: inline-block;
     width: 250px;
@@ -145,14 +151,11 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     opacity: 0.9;
   }
 
-  /* Bottom-right contact label */
   .contact-label {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
+    margin-top: 10px;
     font-size: 1em;
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.0);
+    background-color: rgba(0, 0, 0, 0.6);
     padding: 10px 20px;
     border-radius: 8px;
   }
@@ -179,6 +182,10 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
     .right-half {
       padding: 0;
+    }
+
+    .app-store-container {
+      align-items: center;
     }
   }
 
@@ -225,11 +232,12 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <div class="additional-info">
       This app will guide children to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
     </div>
-    <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+    <!-- App Store Button and Contact Label -->
+    <div class="app-store-container">
+      <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+      <div class="contact-label">
+        Contact us: <b>barhakharinepal@gmail.com</b>
+      </div>
+    </div>
   </div>
-</div>
-
-<!-- Contact Label -->
-<div class="contact-label">
-  Contact us: <b>barhakharinepal@gmail.com</b>
 </div>
