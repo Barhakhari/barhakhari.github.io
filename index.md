@@ -208,7 +208,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 <div class="blur-overlay"></div>
 
 <!-- FAQs Button -->
-<a href="faq.md" class="faqs-button">FAQs</a>
+<a href="faq" class="faqs-button">FAQs</a>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
