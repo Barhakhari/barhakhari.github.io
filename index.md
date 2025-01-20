@@ -39,9 +39,9 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     left: 0;
     width: 100%;
     height: 100%;
-    backdrop-filter: blur(20px); /* Applies the blur effect to the background */
-    -webkit-backdrop-filter: blur(20px); /* Safari support */
-    background-color: rgba(0, 0, 0, 0.1); /* A light overlay color to enhance the blur effect */
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    background-color: rgba(0, 0, 0, 0.1);
     z-index: -1;
   }
 
@@ -75,7 +75,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     justify-content: center;
     min-height: 100vh;
     padding: 20px;
-    flex-direction: column;
   }
 
   /* Left half with mobile screenshot */
@@ -127,15 +126,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     margin-bottom: 30px;
   }
 
-  /* App Store button and Contact label container */
-  .app-store-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    margin-top: 30px;
-  }
-
+  /* App Store button */
   .app-store-button {
     display: inline-block;
     width: 250px;
@@ -154,14 +145,16 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     opacity: 0.9;
   }
 
+  /* Bottom-right contact label */
   .contact-label {
-    margin-top: 10px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
     font-size: 1em;
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 8px 15px;
+    background-color: rgba(0, 0, 0, 0.0);
+    padding: 10px 20px;
     border-radius: 8px;
-    font-weight: 400;
   }
 
   .contact-label b {
@@ -186,15 +179,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
     .right-half {
       padding: 0;
-    }
-
-    .app-store-container {
-      margin-top: 20px;
-    }
-
-    .contact-label {
-      font-size: 0.9em;
-      padding: 8px 15px;
     }
   }
 
@@ -241,12 +225,11 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <div class="additional-info">
       This app will guide children to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
     </div>
-
-    <div class="app-store-container">
-      <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
-      <div class="contact-label">
-        Contact us: <b>barhakharinepal@gmail.com</b>
-      </div>
-    </div>
+    <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
+</div>
+
+<!-- Contact Label -->
+<div class="contact-label">
+  Contact us: <b>barhakharinepal@gmail.com</b>
 </div>
