@@ -10,7 +10,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 </head>
 
 <style>
-
   /* General reset */
   body {
     margin: 0;
@@ -18,93 +17,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     font-family: 'Poppins', sans-serif;
     color: #fff;
     overflow-x: hidden;
-
-    <!-- Add this inside the body -->
-<div class="top-right-menu">
-  <button class="more-button">More</button>
-  <div class="dropdown-menu">
-    <a href="faq.md">FAQs</a>
-    <a href="contact.md">Contact Us</a>
-  </div>
-</div>
-
-<style>
-  /* Styles for the top-right menu */
-  .top-right-menu {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    z-index: 10;
-  }
-
-  .more-button {
-    background-color: #000;
-    color: #fff;
-    font-size: 1em;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s;
-  }
-
-  .more-button:hover {
-    background-color: #444;
-  }
-
-  .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 50px;
-    right: 0;
-    background-color: #fff;
-    color: #000;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
-    overflow: hidden;
-    z-index: 20;
-  }
-
-  .dropdown-menu a {
-    display: block;
-    padding: 10px 15px;
-    text-decoration: none;
-    color: #000;
-    font-size: 1em;
-    background-color: #fff;
-    transition: background-color 0.3s;
-  }
-
-  .dropdown-menu a:hover {
-    background-color: #f0f0f0;
-  }
-
-  /* Show dropdown menu on button click */
-  .top-right-menu.open .dropdown-menu {
-    display: block;
-  }
-</style>
-
-<script>
-  // JavaScript for toggling the dropdown menu
-  document.addEventListener("DOMContentLoaded", function () {
-    const moreButton = document.querySelector(".more-button");
-    const menuContainer = document.querySelector(".top-right-menu");
-
-    moreButton.addEventListener("click", function () {
-      menuContainer.classList.toggle("open");
-    });
-
-    // Close the dropdown if clicked outside
-    document.addEventListener("click", function (event) {
-      if (!menuContainer.contains(event.target)) {
-        menuContainer.classList.remove("open");
-      }
-    });
-  });
-</script>
-
   }
 
   /* Full-page background */
@@ -127,9 +39,9 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     left: 0;
     width: 100%;
     height: 100%;
-    backdrop-filter: blur(20px); /* Applies the blur effect to the background */
-    -webkit-backdrop-filter: blur(20px); /* Safari support */
-    background-color: rgba(0, 0, 0, 0.1); /* A light overlay color to enhance the blur effect */
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    background-color: rgba(0, 0, 0, 0.1);
     z-index: -1;
   }
 
@@ -194,24 +106,22 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
   /* App Store button */
   .app-store-button {
-  display: inline-block;
-  width: 250px; /* Adjust width */
-  height: 70px; /* Adjust height */
-  background-image: url('/appstore.png'); /* Ensure this is a black button image */
-  background-size: contain; /* Fit the image within the button */
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 12px; /* Rounded corners */
-  text-indent: -9999px; /* Hides text visually */
-  transition: transform 0.3s, opacity 0.3s; /* Hover effect */
-}
+    display: inline-block;
+    width: 250px;
+    height: 70px;
+    background-image: url('/appstore.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 12px;
+    text-indent: -9999px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
 
-.app-store-button:hover {
-  transform: scale(1.1); /* Slight zoom-in effect */
-  opacity: 0.9; /* Fade effect */
-}
-
-
+  .app-store-button:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+  }
 
   /* Responsive adjustments */
   @media (max-width: 768px) {
@@ -255,10 +165,91 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     }
   }
 
+  /* Styles for the top-right menu */
+  .top-right-menu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+  }
+
+  .more-button {
+    background-color: #000;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+  }
+
+  .more-button:hover {
+    background-color: #444;
+  }
+
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    z-index: 20;
+  }
+
+  .dropdown-menu a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #000;
+    font-size: 1em;
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+
+  .dropdown-menu a:hover {
+    background-color: #f0f0f0;
+  }
+
+  /* Show dropdown menu on button click */
+  .top-right-menu.open .dropdown-menu {
+    display: block;
+  }
 </style>
+
+<!-- JavaScript for dropdown menu -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const moreButton = document.querySelector(".more-button");
+    const menuContainer = document.querySelector(".top-right-menu");
+
+    moreButton.addEventListener("click", function () {
+      menuContainer.classList.toggle("open");
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!menuContainer.contains(event.target)) {
+        menuContainer.classList.remove("open");
+      }
+    });
+  });
+</script>
 
 <div class="background-image"></div>
 <div class="blur-overlay"></div>
+
+<div class="top-right-menu">
+  <button class="more-button">More</button>
+  <div class="dropdown-menu">
+    <a href="faq.md">FAQs</a>
+    <a href="contact.md">Contact Us</a>
+  </div>
+</div>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
@@ -278,3 +269,4 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
+
