@@ -4,14 +4,11 @@ title: "Privacy Policy - Barhakhari"
 permalink: /privacy-policy/
 ---
 
-
 <style>
-
   /* Hide default Jekyll page title and header */
   h1.page-title {
     display: none;
   }
-
   header {
     display: none;
   }
@@ -19,48 +16,95 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-
 Effective Date: 1 Jan 2025
 
+At Barhakhari, we value the privacy and safety of all users, especially children. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with child-specific privacy regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
 
-At Barhakhari, we value your privacy and are committed to protecting your personal information. This privacy policy outlines how we collect, use, and protect data associated with the app. We want to assure you that Barhakhari takes your privacy seriously.
+We assure you that Barhakhari takes your privacy seriously and strives to create a safe, educational environment for children.
+
+---
 
 ### Data Collection
 
-**Barhakhari** does not collect any personal data from users. We do not collect any identifying information, such as your name, address, email, or phone number. The following technical details will be included in your feedback to help us resolve your issue: App version, Device name, and iOS version.
+**Barhakhari** is designed to limit data collection, ensuring children's privacy and safety. Below is a summary of what we collect and why:
+
+- **No Personal Data**: We do not collect any personal data such as name, address, email, or phone number.
+- **Technical Information for Feedback**: If you provide feedback, the following technical details may be included to help resolve issues:
+  - App version
+  - Device name
+  - iOS version
+
+This data is anonymized and not linked to any individual user.
+
+---
+
+### Parental Consent
+
+Barhakhari does not collect or request personal information directly from children. If you are under 13 years old, please use the app only under parental or guardian supervision. Parental consent is required for any data-sharing activity beyond what is outlined here.
+
+---
 
 ### Usage of the App
 
-The app is designed to guide children in writing Nepali alphabets, one letter at a time. While using the app, an internet connection is required to download resources and display ads. The app does not store any personal information, but it may collect anonymized usage data to enhance the user experience, which is not tied to any specific individual.
+The app is an educational tool that helps children learn to write Nepali alphabets. To operate effectively:
+- An **internet connection** is required to download resources and display ads.
+- **Anonymous usage data** may be collected for improving app functionality. This data cannot identify or track individual users.
+
+---
 
 ### Advertisements
 
-Barhakhari uses third-party advertising services to display ads while you are using the app. These ads may collect information about your device and usage of the app for advertising purposes. However, no personal information such as your name, address, or email is collected or shared.
+Barhakhari displays ads through **Google AdMob**, which complies with child-specific privacy requirements:
+- Ads displayed in the app are **non-personalized** for children.
+- No personal data is collected to target ads.
 
-We do not control the content or the data collection practices of these third-party ad services. Please refer to the privacy policies of the third-party advertisers for more information on how they collect and use data.
+We encourage parents to review the privacy policy of Google AdMob for more details:  
+[Google AdMob Privacy Policy](https://policies.google.com/privacy?hl=en&gl=US)
 
-Link to the privacy policy of third-party service providers used by the App.
+---
 
-- [Google AdMob](https://policies.google.com/privacy?hl=en&gl=US){:target="_blank"}
+### Third-Party Services
 
-### No Third-Party Services for Data Collection
+Barhakhari uses the following third-party services:  
 
-Apart from the ad services mentioned above, we do not use any other third-party services, such as analytics or social media integration, that track your personal information or usage.
+1. **YouTube Videos**:  
+   - The app provides access to YouTube videos (e.g., children’s rhymes) using the default YouTube player.
+   - These videos are streamed directly from YouTube, and YouTube may collect data (e.g., device type, usage patterns) as part of its service.  
+   - Barhakhari does not collect, store, or process any personal data related to YouTube usage.  
+   Refer to YouTube’s privacy policy for details: [YouTube Privacy Policy](https://policies.google.com/privacy)
 
-However, our app includes the ability to play YouTube videos, specifically children’s rhymes, using the default YouTube player. These videos are streamed directly from YouTube and comply with YouTube’s API Terms of Service. When you play a video, YouTube may collect certain information as part of its normal operation, such as device data and usage patterns, in accordance with YouTube’s Privacy Policy.
+**Important Note for Parents**:  
+We recommend parental supervision while children access YouTube videos to ensure a safe experience.
 
-We do not collect, store, or process any personal data related to your use of YouTube videos within the app.
+---
 
-### Security
+### Security Measures
 
-Since Barhakhari does not collect or store personal information, there is no data to secure. However, we take reasonable measures to ensure the app functions securely and as intended. If we make any changes to the way we handle data in the future, we will update this privacy policy and notify users in advance.
+While Barhakhari does not collect personal information, we take the following steps to ensure the app's safety:
+- Ensure secure access to resources and ads.
+- Monitor compliance with privacy regulations.
+- Regularly review and update our systems for potential vulnerabilities.
 
-### Changes to this Privacy Policy
+---
 
-We reserve the right to update or modify this privacy policy at any time. If we make any changes, the updated privacy policy will be posted in the app and on our website. By continuing to use the app after any changes to this privacy policy, you agree to the updated terms.
+### Parental Rights and Controls
+
+As a parent, you have the right to:
+- Review and delete any feedback-related data shared with us.
+- Contact us for questions about our data collection practices.
+
+To exercise these rights, email us at: **barhakharinepal@gmail.com**
+
+---
+
+### Changes to This Privacy Policy
+
+We reserve the right to update or modify this privacy policy at any time to comply with evolving regulations or improve transparency. If significant changes occur, we will notify users via the app and update the policy on our website.
+
+---
 
 ### Contact Us
 
-If you have any questions or concerns about this privacy policy, please feel free to contact us at:
+If you have questions or concerns about this privacy policy or your child’s safety, please contact us at:
 
-Email: <b>barhakharinepal@gmail.com</b> 
+**Email**: **barhakharinepal@gmail.com**
