@@ -75,6 +75,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     justify-content: center;
     min-height: 100vh;
     padding: 20px;
+    flex-direction: column; /* Make sure it's vertically centered */
   }
 
   /* Left half with mobile screenshot */
@@ -146,15 +147,21 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   }
 
   /* Bottom-right contact label */
+  .contact-label-container {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+  }
+
   .contact-label {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
+    display: inline-block;
     font-size: 1em;
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.0);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 10px 20px;
     border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
   }
 
   .contact-label b {
@@ -179,6 +186,15 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
     .right-half {
       padding: 0;
+    }
+
+    .contact-label-container {
+      margin-top: 10px;
+    }
+
+    .contact-label {
+      font-size: 0.9em;
+      padding: 8px 15px;
     }
   }
 
@@ -227,11 +243,11 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     </div>
     <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
+
+  <!-- Contact Label -->
+  <div class="contact-label-container">
+    <div class="contact-label">
+      Contact us: <b>barhakharinepal@gmail.com</b>
+    </div>
+  </div>
 </div>
-
-<!-- Contact Label -->
-<div class="contact-label">
-  Contact us: <b>barhakharinepal@gmail.com</b>
-</div>
-
-
