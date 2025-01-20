@@ -70,6 +70,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   /* Main container */
   .content-container {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
@@ -104,6 +105,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     padding: 20px;
     text-align: left;
     animation: slideIn 1s ease-in-out;
+    position: relative;
   }
 
   .title {
@@ -125,14 +127,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     margin-bottom: 30px;
   }
 
-  /* App Store button and contact label container */
-  .app-store-container {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
+  /* App Store button */
   .app-store-button {
     display: inline-block;
     width: 250px;
@@ -151,13 +146,17 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     opacity: 0.9;
   }
 
+  /* Contact Label */
   .contact-label {
-    margin-top: 10px;
+    margin-top: 30px;
     font-size: 1em;
     color: #fff;
     background-color: rgba(0, 0, 0, 0.6);
     padding: 10px 20px;
     border-radius: 8px;
+    text-align: center;
+    width: fit-content;
+    align-self: flex-end; /* Moves to the bottom-right of the scrollable content */
   }
 
   .contact-label b {
@@ -168,12 +167,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   @media (max-width: 768px) {
     .content-container {
       flex-direction: column;
-    }
-
-    .left-half, .right-half {
-      flex: none;
-      width: 100%;
-      text-align: center;
+      align-items: center;
     }
 
     .left-half img {
@@ -184,8 +178,8 @@ title: "Barhakhari - Guide for Nepali Alphabets"
       padding: 0;
     }
 
-    .app-store-container {
-      align-items: center;
+    .contact-label {
+      align-self: center;
     }
   }
 
@@ -232,12 +226,9 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <div class="additional-info">
       This app will guide children to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
     </div>
-    <!-- App Store Button and Contact Label -->
-    <div class="app-store-container">
-      <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
-      <div class="contact-label">
-        Contact us: <b>barhakharinepal@gmail.com</b>
-      </div>
+    <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+    <div class="contact-label">
+      Contact us: <b>barhakharinepal@gmail.com</b>
     </div>
   </div>
 </div>
