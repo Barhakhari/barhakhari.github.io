@@ -50,7 +50,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: #000000;
+    background-color: clear;
     color: #fff;
     padding: 10px 20px;
     border: none;
