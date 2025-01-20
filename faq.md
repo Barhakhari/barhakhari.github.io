@@ -16,6 +16,10 @@ The Barhakhari app is designed to help kids learn to write Nepali alphabets, inc
 - Learn words associated with Nepali alphabets.
 - Switch between **Assistive Mode** and **Manual Mode** for alphabet tracing.
 - Adjust background sound and volume settings from the settings screen.
+- Play a quiz game with alphabets and animal sounds.
+- Play other fun game.
+- Enjoy watching youtube videos of kids nepali rhymes.
+- Enjoy free sketching and free writing canvas.
 
 ---
 
@@ -60,7 +64,7 @@ If you encounter any issues or have feedback, please contact us at **barhakharin
 ---
 
 ### 11. **Can I use the app offline?**
-Some features may require an internet connection, but core features like tracing and learning the alphabets can be used offline.
+No you cannot use the app offline.
 
 ---
 
