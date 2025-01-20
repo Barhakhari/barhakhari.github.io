@@ -45,6 +45,27 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     z-index: -1;
   }
 
+  /* Top-right FAQs button */
+  .faqs-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #0078d7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+
+  .faqs-button:hover {
+    background-color: #005bb5;
+  }
+
   /* Main container */
   .content-container {
     display: flex;
@@ -69,7 +90,6 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     height: auto;
     max-height: 2000px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.0);
     transition: transform 0.3s;
   }
 
@@ -123,6 +143,22 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     opacity: 0.9;
   }
 
+  /* Bottom-right contact label */
+  .contact-label {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+
+  .contact-label b {
+    font-weight: 700;
+  }
+
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .content-container {
@@ -164,92 +200,13 @@ title: "Barhakhari - Guide for Nepali Alphabets"
       opacity: 1;
     }
   }
-
-  /* Styles for the top-right menu */
-  .top-right-menu {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    z-index: 10;
-  }
-
-  .more-button {
-    background-color: #000;
-    color: #fff;
-    font-size: 1em;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s;
-  }
-
-  .more-button:hover {
-    background-color: #444;
-  }
-
-  .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 50px;
-    right: 0;
-    background-color: #fff;
-    color: #000;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
-    overflow: hidden;
-    z-index: 20;
-  }
-
-  .dropdown-menu a {
-    display: block;
-    padding: 10px 15px;
-    text-decoration: none;
-    color: #000;
-    font-size: 1em;
-    background-color: #fff;
-    transition: background-color 0.3s;
-  }
-
-  .dropdown-menu a:hover {
-    background-color: #f0f0f0;
-  }
-
-  /* Show dropdown menu on button click */
-  .top-right-menu.open .dropdown-menu {
-    display: block;
-  }
 </style>
-
-<!-- JavaScript for dropdown menu -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const moreButton = document.querySelector(".more-button");
-    const menuContainer = document.querySelector(".top-right-menu");
-
-    moreButton.addEventListener("click", function () {
-      menuContainer.classList.toggle("open");
-    });
-
-    document.addEventListener("click", function (event) {
-      if (!menuContainer.contains(event.target)) {
-        menuContainer.classList.remove("open");
-      }
-    });
-  });
-</script>
 
 <div class="background-image"></div>
 <div class="blur-overlay"></div>
 
-<div class="top-right-menu">
-  <button class="more-button">More</button>
-  <div class="dropdown-menu">
-    <a href="faq.md">FAQs</a>
-    <a href="contact.md">Contact Us</a>
-  </div>
-</div>
+<!-- FAQs Button -->
+<a href="faq.md" class="faqs-button">FAQs</a>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
@@ -269,4 +226,10 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
   </div>
 </div>
+
+<!-- Contact Label -->
+<div class="contact-label">
+  Contact us: <b>barhakharinepal@gmail.com</b>
+</div>
+
 
