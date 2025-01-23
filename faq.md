@@ -11,7 +11,7 @@ The Barhakhari app is designed to help kids/adult learn to write Nepali alphabet
 ---
 
 ### 2. **What features are available in the app?**
-- Learn to write Nepali vowels, consonants, numbers, and Barhakhari.
+- Learn to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
 - Play a memory flip game with alphabets and their related images.
 - Learn words associated with Nepali alphabets.
 - Switch between **Assistive Mode** and **Manual Mode** for alphabet tracing.
