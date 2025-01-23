@@ -6,7 +6,7 @@ title: "FAQs - Barhakhari App"
 # Frequently Asked Questions (FAQs)
 
 ### 1. **What is the purpose of the Barhakhari app?**
-The Barhakhari app is designed to help kids learn to write Nepali alphabets, including vowels, consonants, numbers, and Barhakhari. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
+The Barhakhari app is designed to help kids/adult learn to write Nepali alphabets, including vowels, consonants, numbers, and Barhakhari. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
 
 ---
 
@@ -24,12 +24,12 @@ The Barhakhari app is designed to help kids learn to write Nepali alphabets, inc
 ---
 
 ### 3. **What is the memory flip game?**
-The memory flip game is a fun activity where kids match Nepali alphabets with related images. It’s designed to reinforce learning through visual and memory-based challenges.
+The memory flip game is a fun activity where kids/adult match Nepali alphabets with related images. It’s designed to reinforce learning through visual and memory-based challenges.
 
 ---
 
 ### 4. **How does the assistive mode work?**
-The assistive mode provides guidance while tracing alphabets, helping kids follow the correct path. In manual mode, kids can trace the alphabets freely without guidance.
+The assistive mode provides guidance while tracing alphabets, helping kids/adults follow the correct path. In manual mode, kids/adults can trace the alphabets freely without guidance.
 
 ---
 
@@ -44,7 +44,7 @@ Yes, the app displays ads during use. However, if you make a one-time in-app pur
 ---
 
 ### 7. **What does the in-app purchase include?**
-The one-time in-app purchase removes ads from the app, providing an uninterrupted learning experience for your child.
+The one-time in-app purchase removes ads from the app, providing an uninterrupted learning experience for user.
 
 ---
 
@@ -54,7 +54,7 @@ Yes, the app is specifically designed for kids with educational content and inte
 ---
 
 ### 9. **Can I switch between assistive and manual modes?**
-Yes, you can easily switch between the two modes from the settings screen. This allows your child to choose the learning method that works best for them.
+Yes, you can easily switch between the two modes from the settings screen. This allows user to choose the learning method that works best for them.
 
 ---
 
