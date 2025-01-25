@@ -49,7 +49,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   .top-right-buttons {
     position: absolute;
     top: 20px;
-    right: 20px;
+    right: 10px;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
