@@ -45,24 +45,31 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     z-index: -1;
   }
 
-  /* Top-right FAQs button */
-  .faqs-button {
+  /* Top-right buttons */
+  .top-right-buttons {
     position: absolute;
     top: 20px;
     right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+  }
+
+  .button-link {
     background-color: clear;
     color: #fff;
     padding: 10px 20px;
     border: none;
     border-radius: 8px;
-    font-size: 1em;
+    font-size: 0.9em; /* Adjusted font size */
     font-weight: 600;
     cursor: pointer;
     text-decoration: none;
     transition: transform 0.3s, opacity 0.3s;
   }
 
-  .faqs-button:hover {
+  .button-link:hover {
     transform: scale(1.1);
     opacity: 0.9;
   }
@@ -213,8 +220,11 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 <div class="background-image"></div>
 <div class="blur-overlay"></div>
 
-<!-- FAQs Button -->
-<a href="faq" class="faqs-button">FAQs</a>
+<!-- Top-right Buttons -->
+<div class="top-right-buttons">
+  <a href="faq" class="button-link">FAQs</a>
+  <a href="https://barhakhari.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
+</div>
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
