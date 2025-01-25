@@ -53,16 +53,16 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    gap: 20px;
+    gap: 1px;
   }
 
   .button-link {
     background-color: clear;
     color: #fff;
-    padding: 10px 20px;
+    padding: 5px 15px;
     border: none;
     border-radius: 8px;
-    font-size: 0.8em; /* Adjusted font size */
+    font-size: 0.8em;
     font-weight: 600;
     cursor: pointer;
     text-decoration: none;
