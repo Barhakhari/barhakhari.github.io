@@ -38,17 +38,6 @@ This data is anonymized and not linked to any individual user.
 
 ---
 
-### Year Picker and Age Verification
-
-When the app is used for the first time, users are required to select their birth year using a **Year Picker**. This process ensures compliance with child-specific privacy regulations. 
-
-- If the user is **under 13 years old**, ads will **not** be displayed in the app to comply with privacy laws and provide a safer experience.
-- If the user is **13 years or older**, non-personalized ads may be displayed in the app through **Google AdMob**.
-
-The selected birth year is stored locally on the device using **UserDefaults** and is not shared with any third party.
-
----
-
 ### Parental Consent
 
 Barhakhari does not collect or request personal information directly from children. If you are under 13 years old, please use the app only under parental or guardian supervision. 
@@ -75,7 +64,9 @@ To operate effectively:
 
 Barhakhari displays ads through **Google AdMob**, with specific rules based on the user's age:
 - **For users under 13 years old**: Ads will **not** be displayed in the app to ensure compliance with child-specific privacy regulations such as COPPA and GDPR-K.
-- **For users 13 years or older**: Ads displayed in the app are **non-personalized** and compliant with privacy laws.
+- **For users 13 years or older**: Ads displayed in the app are **non-personalized**, **contextual**, and compliant with privacy laws.
+
+These contextual ads are carefully curated to ensure they are appropriate for children. In compliance with Apple’s guidelines, we show only child-friendly ads reviewed to be age-appropriate. Users may tap on ads and navigate to external apps (such as the App Store) or websites (in a browser), but these external resources are safe and specifically designed for a child-friendly audience.
 
 We encourage parents to review the privacy policy of Google AdMob for more details:  
 [Google AdMob Privacy Policy](https://policies.google.com/privacy?hl=en&gl=US)
