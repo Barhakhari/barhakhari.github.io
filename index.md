@@ -62,7 +62,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
     padding: 10px 20px;
     border: none;
     border-radius: 8px;
-    font-size: 0.5em; /* Adjusted font size */
+    font-size: 0.8em; /* Adjusted font size */
     font-weight: 600;
     cursor: pointer;
     text-decoration: none;
