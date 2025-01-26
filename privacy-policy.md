@@ -40,9 +40,7 @@ This data is anonymized and not linked to any individual user.
 
 ### Parental Consent
 
-Barhakhari does not collect or request personal information directly from children. If you are under 13 years old, please use the app only under parental or guardian supervision. 
-
-For users under 13, parental consent is required for any data-sharing activity beyond what is outlined here.
+Barhakhari does not collect or request personal information directly from children. Children can safely use the app under parental or guardian supervision.
 
 ---
 
@@ -55,16 +53,14 @@ Barhakhari is an educational tool designed for both **children and adults**. Whi
 ### Usage of the App
 
 To operate effectively:
-- An **internet connection** is required to download resources and display ads (only for users 13 years or older).
+- An **internet connection** is required to download resources and display ads.
 - **Anonymous usage data** may be collected for improving app functionality. This data cannot identify or track individual users.
 
 ---
 
 ### Advertisements
 
-Barhakhari displays ads through **Google AdMob**, with specific rules based on the user's age:
-- **For users under 13 years old**: Ads will **not** be displayed in the app to ensure compliance with child-specific privacy regulations such as COPPA and GDPR-K.
-- **For users 13 years or older**: Ads displayed in the app are **non-personalized**, **contextual**, and compliant with privacy laws.
+Barhakhari displays ads through **Google AdMob** that are **non-personalized**, **contextual**, and compliant with privacy laws.
 
 These contextual ads are carefully curated to ensure they are appropriate for children. In compliance with Apple’s guidelines, we show only child-friendly ads reviewed to be age-appropriate. Users may tap on ads and navigate to external apps (such as the App Store) or websites (in a browser), but these external resources are safe and specifically designed for a child-friendly audience.
 
