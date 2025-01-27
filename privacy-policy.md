@@ -70,6 +70,22 @@ For more details on Google AdMob’s policies, please visit their [Privacy Polic
 
 ---
 
+### Links to other sites
+
+Our service may contain links to other sites that are not operated by us. Any external links in the app are protected by a parental gate to prevent children from accessing them without supervision.
+Once you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Please note that we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+---
+
+### Children's Privacy
+
+Our app is designed for children ages 0-5, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
+We do not collect any personal information from children. If we ever collect data, it will only be done with verified parental consent.
+If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately at **barhakharinepal@gmail.com**. We will promptly delete such information.
+
+---
+
 ### Third-Party Services
 
 Barhakhari uses the following third-party services:  
