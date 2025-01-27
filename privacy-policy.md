@@ -58,14 +58,15 @@ To operate effectively:
 
 ---
 
-### Advertisements
+### Advertising in the App
 
-Barhakhari displays ads through **Google AdMob** that are **non-personalized**, **contextual**, and compliant with privacy laws.
+Barhakhari displays **contextual ads** through **Google AdMob**, ensuring compliance with child privacy regulations such as COPPA and GDPR-K. 
 
-These contextual ads are carefully curated to ensure they are appropriate for children. In compliance with Apple’s guidelines, we show only child-friendly ads reviewed to be age-appropriate. Users may tap on ads and navigate to external apps (such as the App Store) or websites (in a browser), but these external resources are safe and specifically designed for a child-friendly audience.
+- **Non-Personalized Ads**: Ads shown in the app are based on content context, not user behavior.
+- **Age-Appropriate Ads**: All ad creatives are reviewed manually by human moderators to ensure they are safe and appropriate for children.
+- **Safe Navigation**: Tapping on an ad may redirect the user to external content (e.g., the App Store or a website). However, all ads are carefully vetted for safety and relevance to children.
 
-We encourage parents to review the privacy policy of Google AdMob for more details:  
-[Google AdMob Privacy Policy](https://policies.google.com/privacy?hl=en&gl=US)
+For more details on Google AdMob’s policies, please visit their [Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
