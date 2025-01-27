@@ -66,7 +66,7 @@ Barhakhari displays **contextual ads** through **Google AdMob**, ensuring compli
 - **Age-Appropriate Ads**: All ad creatives are reviewed manually by human moderators to ensure they are safe and appropriate for children.
 - **Safe Navigation**: Tapping on an ad may redirect the user to external content (e.g., the App Store or a website). However, all ads are carefully vetted for safety and relevance to children.
 
-For more details on Google AdMob’s policies, please visit their [AdMob Privacy Policy](https://policies.google.com/privacy).
+For more details on Google AdMob’s policies, please visit their [Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
