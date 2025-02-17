@@ -29,9 +29,9 @@ We ensure that all advertisements displayed in the Barhakhari app comply with ch
  
 ### Type of Ads Shown
 Our app displays non-personalized, contextual ads that are:
-✔ Based on the content of the app, not user behavior
-✔ Suitable for all age groups, including children 
-✔ Provided by Google AdMob, a trusted ad network
+	✔ Based on the content of the app, not user behavior
+	✔ Suitable for all age groups, including children 
+	✔ Provided by Google AdMob, a trusted ad network
 
 ---
 
