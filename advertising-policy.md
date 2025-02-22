@@ -43,9 +43,9 @@ To maintain a child-friendly experience, all advertisements in our app undergo m
  ---
  
 ### External Links & Parental Controls
-	•	Some advertisements may direct users to external content (e.g., App Store, websites).
-	•	To ensure a safe experience, we implement parental controls where necessary.
-	•	Parents and guardians are encouraged to supervise children while using the app.
+- Some advertisements may direct users to external content (e.g., App Store, websites).
+- To ensure a safe experience, we implement parental controls where necessary.
+- Parents and guardians are encouraged to supervise children while using the app.
 
  ---
  
