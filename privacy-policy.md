@@ -120,7 +120,3 @@ We reserve the right to update or modify this privacy policy at any time to comp
 If you have questions or concerns about this privacy policy or your safety while using Barhakhari, please contact us at:
 
 **Email**: **barhakharinepal@gmail.com**
-
----
-
-This updated version removes all references to ads and advertising services, as your app no longer includes them. Let me know if you need further adjustments!
