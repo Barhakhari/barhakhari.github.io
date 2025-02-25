@@ -1,4 +1,3 @@
-
 ---
 layout: minimal
 title: "Privacy Policy - Barhakhari"
@@ -19,7 +18,7 @@ permalink: /privacy-policy/
 
 Effective Date: 1 Jan 2025
 
-At Barhakhari, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
+At Barhakhari, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
 
 We assure you that Barhakhari takes your privacy seriously and strives to create a safe, educational environment for all.
 
@@ -59,7 +58,7 @@ To operate effectively:
 
 ---
 
-### Links to other sites
+### Links to Other Sites
 
 Our service may contain links to other sites that are not operated by us. Any external links in the app are protected by a parental gate to prevent children from accessing them without supervision.
 Once you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
@@ -80,7 +79,7 @@ If you are a parent or guardian and believe your child has provided us with pers
 Barhakhari uses the following third-party services:  
 
 1. **YouTube Videos**:  
-   - The app provides access to YouTube videos (e.g., children’s rhymes) using the default YouTube player.
+   - The app provides access to YouTube videos (e.g., children’s rhymes) using the default YouTube player.  
    - These videos are streamed directly from YouTube, and YouTube may collect data (e.g., device type, usage patterns) as part of its service.  
    - Barhakhari does not collect, store, or process any personal data related to YouTube usage.  
    Refer to YouTube’s privacy policy for details: [YouTube Privacy Policy](https://policies.google.com/privacy)
@@ -120,3 +119,4 @@ We reserve the right to update or modify this privacy policy at any time to comp
 If you have questions or concerns about this privacy policy or your safety while using Barhakhari, please contact us at:
 
 **Email**: **barhakharinepal@gmail.com**
+
