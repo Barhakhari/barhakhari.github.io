@@ -59,7 +59,7 @@ If you encounter any issues or have feedback, please contact us at **barhakharin
 ---
 
 ### 10. **Can I use the app offline?**
-No, you cannot use the app offline. An internet connection is required to download resources and access certain features like YouTube videos.
+Yes, you can use the app offline. An internet connection is required to access certain features like YouTube videos.
 
 ---
 
