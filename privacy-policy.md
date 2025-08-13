@@ -53,7 +53,7 @@ Barhakhari is an educational tool designed for both **children and adults**. Whi
 ### Usage of the App
 
 To operate effectively:
-- An **internet connection** is required to download resources.
+- An **internet connection** is required to play youtube videos.
 - **Anonymous usage data** may be collected for improving app functionality. This data cannot identify or track individual users.
 
 ---
