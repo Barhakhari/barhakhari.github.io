@@ -225,7 +225,7 @@ title: "Barhakhari - Guide for Nepali Alphabets"
   <a href="faq" class="button-link">FAQs</a>
   <a href="https://barhakhari.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
 </div>
-</div>
+
 
 <div class="content-container">
   <!-- Left half with mobile screenshot -->
